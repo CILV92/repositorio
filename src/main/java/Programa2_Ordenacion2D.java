@@ -5,9 +5,9 @@ public class Programa2_Ordenacion2D {
     public static void main(String[] args) {
         // Declarar una matriz 3x3 de enteros
         int[][] matriz = {
-            {45, 12, 78},
-            {33, 7, 91},
-            {56, 23, 8}
+            {35, 13, 68},
+            {66, 5, 71},
+            {46, 83, 4}
         };
         
         // Mostrar la matriz original
